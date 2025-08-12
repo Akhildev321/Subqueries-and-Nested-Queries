@@ -34,6 +34,6 @@
 ---
 
 ## Alias
-- **s** is an alias for the students table, used to shorten queries.
-- **c** is an alias for the courses table, used to shorten queries.
-- **e** is an alias for the enrollment table, used to shorten queries. 
+- **"s"** is an alias for the students table, used to shorten queries.
+- **"c"** is an alias for the courses table, used to shorten queries.
+- **"e"** is an alias for the enrollment table, used to shorten queries. 
